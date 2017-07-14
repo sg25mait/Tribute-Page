@@ -1,0 +1,39 @@
+<style>
+  body{
+    margin-top:50px;
+  }
+  .mar{
+    margin-top:25px;
+  }
+  #middle{
+  background-color: #DCDCDC;
+  width:80%;
+  height:100%;
+
+margin-left: auto ;
+margin-right: auto ;
+  }
+  .text-center {
+text-align: center;
+}
+  .e{
+    margin-left:50px;
+    text-align:left;
+    font-size : 35px;
+    font-family:serif,monospace;
+  }
+  .c{
+    background-color : #87AFC7;
+  }
+  .textstyle{
+    font-family : lobster, Monospace;
+    font-size : 80px;
+  }
+  .p{
+    font-family : Monospace;
+    font-size : 30px;
+  }
+  .a{
+    font-size : 20px;
+  }
+</style>
